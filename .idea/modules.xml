@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/qf-v9-service/qf-v9-service.iml" filepath="$PROJECT_DIR$/qf-v9-service/qf-v9-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/qf-v9-web/qf-v9-web.iml" filepath="$PROJECT_DIR$/qf-v9-web/qf-v9-web.iml" />
     </modules>
   </component>
 </project>

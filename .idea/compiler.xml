@@ -18,7 +18,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="qf-v9-service" target="1.8" />
-      <module name="qf-v9-web" target="1.8" />
       <module name="qfv9service" target="1.5" />
       <module name="qfv9web" target="1.5" />
     </bytecodeTargetLevel>
